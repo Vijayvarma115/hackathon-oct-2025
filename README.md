@@ -83,7 +83,7 @@ Most customer service bots fail to provide personalized, human-like support for 
 - [n8n](https://n8n.io/) – Workflow orchestration and RAG logic.
 - [FAISS](https://github.com/facebookresearch/faiss), [Pinecone](https://www.pinecone.io/), or [ChromaDB](https://www.trychroma.com/) – Vector DB for semantic document retrieval.
 - [OpenAI GPT-4](https://openai.com/), [Llama 3](https://llama.meta.com/llama3/), [Mistral](https://mistral.ai/) – LLM backends.
-- (Planned) [Pipecat](https://github.com/pipecat-ai/pipecat), [LiveKit](https://livekit.io/) for real-time voice support.
+- Vapi.ai [Pipecat](https://github.com/pipecat-ai/pipecat), [LiveKit](https://livekit.io/) for real-time voice support.
 
 ### Quick Start (Docker Compose)
 
